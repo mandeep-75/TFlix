@@ -1,7 +1,7 @@
 {
   "name": "tflix-tizenbrew",
   "version": "1.0.0",
-  "description": "TFlix site mod for TizenBrew: Netflix-like navigation and TV remote support for cineby.app.",
+  "description": "TFlix site mod for TizenBrew: Netflix-like navigation and TV remote support for cineby.gd.",
   "packageType": "mods",
   "appName": "TFlix",
   "websiteURL": "https://www.cineby.gd/",
