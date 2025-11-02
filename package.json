@@ -4,7 +4,7 @@
   "description": "TFlix site mod for TizenBrew: Netflix-like navigation and TV remote support for cineby.app.",
   "packageType": "mods",
   "appName": "TFlix",
-  "websiteURL": "https://www.cineby.app/",
+  "websiteURL": "https://www.cineby.gd/",
   "main": "dist/userScript.js",
   "serviceFile": "dist/service.js",
   "keys": [
